@@ -14,3 +14,6 @@ First you have to buy all these stuff. RGB Led strip has 4 output cables(Red,Gre
     With BD679 number 1 is for Arduino with 10K resistor, number 2 is for Led and number 3 goes to ground.
 
 I have made this from ULN2003A and BDN679. This is the code that I used.
+
+Link for blogpost:
+http://denizkarakay.me//arduino-led-strip/
