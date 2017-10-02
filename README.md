@@ -1,6 +1,6 @@
 # Arduino_Led_Strip
 
-Hello. I have controlled a Led strip with Arduino. You can make it very easily.
+I have controlled a Led strip with an Arduino. You can make it very easily.
 
     Arduino Uno or any kind of Arduino
     RGB Led Strip (I use 1 m)
@@ -17,3 +17,5 @@ I have made this from ULN2003A and BDN679. This is the code that I used.
 
 Link for blogpost:
 http://denizkarakay.me//arduino-led-strip/
+
+Example: https://www.youtube.com/watch?v=-8iK7nfY6WM
