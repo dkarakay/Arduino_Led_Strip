@@ -16,6 +16,6 @@ First you have to buy all these stuff. RGB Led strip has 4 output cables(Red,Gre
 I have made this from ULN2003A and BDN679. This is the code that I used.
 
 Link for blogpost:
-http://denizkarakay.me//arduino-led-strip/
+http://dkarakay.github.io//arduino-led-strip/
 
 Example: https://www.youtube.com/watch?v=-8iK7nfY6WM
