@@ -1,5 +1,5 @@
 /* Written and Edited by Deniz Karakay
- * 10.12.2016
+ * 16.03.2020
  */
 
 int pinR = 9;  //Red
@@ -55,7 +55,7 @@ void loop() {
   delay(500);
   Serial.println(red);
 
-  }else if(state == 'D'){ // For Random
+  }else if(state == 'Q'){ // For Random
   analogWrite(pinR,255);
   analogWrite(pinG,0);
   analogWrite(pinB,0);
@@ -98,7 +98,7 @@ void loop() {
   analogWrite(pinR,255);
   analogWrite(pinG,255);
   analogWrite(pinB,255);
-  delay(1000);
+  delay(2500);
 
   }else if(state == 'C'){// For Close
   analogWrite(pinR,0);
